@@ -2,4 +2,4 @@
     return a+b; 
  }
 
- console.log('addition is for dev22: ', add(10,60))
+ console.log('addition is for dev testing: ', add(10,60))
